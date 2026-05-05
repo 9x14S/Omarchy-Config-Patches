@@ -1,0 +1,4 @@
+pwnOS_logo.png as logo.png in /usr/share/plymouth/themes/omarchy/, chmod a-w it
+pwnOS_logo.svg as logo.svg in /usr/share/sddm/themes/omarchy/, chmod a-w it
+
+do limine-mkinitcpio after that
